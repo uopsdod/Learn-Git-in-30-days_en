@@ -1,4 +1,4 @@
-30 天精通 Git 版本控管
+Master Git Version Control in 30 Days
 ====================
 
 作者: 黃保翕 ( Will 保哥 )
